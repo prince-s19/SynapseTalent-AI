@@ -1498,4 +1498,3 @@ The platform is transparent, auditable, and designed for scale. The roadmap incl
 
 
 
-*Disclaimer: All data in this demo environment is fictional. Match scores are projected readiness estimates, not guarantees. See [Privacy Policy](/privacy) and [Terms of Service](/terms) for full legal terms.*
