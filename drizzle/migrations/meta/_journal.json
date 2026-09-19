@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789798594038,
+      "tag": "0000_synapsetalent_schema_and_demo_data",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789800913185,
+      "tag": "0001_auth_roles_and_owner_writes",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789804799443,
+      "tag": "0002_hr_pipeline_rewards_reports_and_trends",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1789804873397,
+      "tag": "0003_avatar_storage_policies",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1789806510705,
+      "tag": "0004_fix_job_title_write_path",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1789807002370,
+      "tag": "0005_restrict_public_reads_to_demo_data",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1789807056468,
+      "tag": "0006_restore_anon_grants_rls_only",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1789807108555,
+      "tag": "0007_allow_anon_demo_check",
+      "breakpoints": true
+    }
+  ]
+}
