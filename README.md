@@ -4,6 +4,9 @@ AI-Powered Continuous Talent Intelligence &amp; Internal Mobility Platform
 **Where Hidden Skills Meet Hidden Opportunities**
 Internal talent intelligence platform · 
 
+ Live demo
+
+[SynapseTalent AI Live Demo](https://genindianai.lovable.app)
 ---
 
 ## 1. Executive Summary
